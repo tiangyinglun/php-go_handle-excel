@@ -1,0 +1,6 @@
+phone   idfa    emai h1 h2 h3 h4
+17600103238	-	-	-  1 2 3
+17600103239	-	-	-
+
+
+phone  code|1 code2|2 h1|1 h2|2 h3|3 h4|4
